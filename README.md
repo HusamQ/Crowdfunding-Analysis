@@ -1,4 +1,7 @@
 # Kickstarter Analysis
+
+To view this project, please download the excel file and run on your computer. 
+
 This is an Analaysis for a startup production company that is producing media material that covers different categories in different countries such as art books, music, documantries, ..etc. 
 
 Each project is funded by a fundraising campain. In order to produce the material it has to reach the goal for each production.
